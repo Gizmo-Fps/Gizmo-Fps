@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, moi c'est Jason8831</h1>
 <h3 align="center">Développeur frontend et backend passionné, basé en Belgique</h3>
 
-<p align="center">
-https://cdn.discordapp.com/attachments/1382115140035547136/1414329640767590600/1920x480.png?ex=68bf2c9f&is=68bddb1f&hm=5524184a0dce99fba86cb63001c833b5eee66d7a5bcf0fa2e12346a49fc2e145&
-</p>
+
+  ![Banner](https://cdn.discordapp.com/attachments/1382115140035547136/1414329640767590600/1920x480.png?ex=68bf2c9f&is=68bddb1f&hm=5524184a0dce99fba86cb63001c833b5eee66d7a5bcf0fa2e12346a49fc2e145& "Banniere")
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jason8831&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="vues du profil" />
