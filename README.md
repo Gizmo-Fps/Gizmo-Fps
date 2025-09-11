@@ -2,7 +2,7 @@
 <h3 align="center">Développeur frontend et backend passionné, basé en Belgique</h3>
 
 
-  ![Banner](https://cdn.discordapp.com/attachments/1382115140035547136/1414329640767590600/1920x480.png?ex=68bf2c9f&is=68bddb1f&hm=5524184a0dce99fba86cb63001c833b5eee66d7a5bcf0fa2e12346a49fc2e145& "Banniere")
+  ![Banner](https://r2.fivemanage.com/mb6NJAAY68csnq9bp8stS/1920x480.png "Banniere")
 
 
 <p align="center">
