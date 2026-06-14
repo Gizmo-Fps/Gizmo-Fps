@@ -54,7 +54,7 @@
 ### 📊 Statistiques GitHub
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jason8831&show_icons=true&locale=fr&hide_title=true" alt="Statistiques GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gizmo-Fps&show_icons=true&locale=fr&hide_title=true" alt="Statistiques GitHub" />
 </p>
 
 <p>
