@@ -54,8 +54,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Gizmo-Fps?style=for-the-badge&color=a855f7&labelColor=09090b" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Gizmo-Fps?style=for-the-badge&color=0ea5e9&labelColor=09090b" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/Gizmo-Fps?style=for-the-badge&color=a855f7&labelColor=09090b" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/Gizmo-Fps?style=for-the-badge&color=0ea5e9&labelColor=09090b" alt="Issues" />
+  <img src="https://img.shields.io/github/following/Gizmo-Fps?style=for-the-badge&color=a855f7&labelColor=09090b" alt="Following" />
+  <img src="https://img.shields.io/github/repos/Gizmo-Fps?style=for-the-badge&color=0ea5e9&labelColor=09090b" alt="Repositories" />
 </p>
 
 <p align="center">
