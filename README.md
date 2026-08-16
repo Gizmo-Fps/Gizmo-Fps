@@ -2,7 +2,7 @@
 
 <img src="https://r2.fivemanage.com/mb6NJAAY68csnq9bp8stS/Gizmo-Banner.png" alt="Banner" width="100%"/>
 
-# Salut 👋, moi c'est Jason8831
+# Salut 👋, moi c'est GizmoFps
 ### Développeur frontend et backend passionné, basé en Belgique 🇧🇪
 
 <img src="https://komarev.com/ghpvc/?username=jason8831&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="vues du profil" />
@@ -35,10 +35,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a> &nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/></a> &nbsp;
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="45" height="45"/></a> &nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="45" height="45"/></a> &nbsp;
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="45" height="45"/></a> &nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/></a> &nbsp;
-  <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/></a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="45" height="45"/></a>
 </p>
 
 ---
@@ -47,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jason8831&theme=tokyonight&margin-w=15" alt="trophées GitHub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jason8831&margin-w=15&bg_color=050510&title_color=ffffff&text_color=ffffff&border_color=250368" alt="trophées GitHub" />
   </a>
 </p>
 
@@ -56,9 +53,9 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gizmo-Fps&show_icons=true&locale=fr&hide_title=true&theme=tokyonight" alt="Statistiques GitHub" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gizmo-Fps&show_icons=true&locale=fr&hide_title=true&bg_color=050510&title_color=ffffff&text_color=ffffff&icon_color=4a70d1&border_color=250368" alt="Statistiques GitHub" height="195" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizmo-Fps&locale=fr&theme=tokyonight" alt="Streak GitHub" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizmo-Fps&locale=fr&background=050510&border=250368&ring=4a70d1&fire=4a70d1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak GitHub" height="195" />
 </p>
 
 ---
